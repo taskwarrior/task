@@ -1,2 +1,3 @@
 # task
-A placeholder repo for task. Go to https://github.com/GothenburgBitFactory/taskwarrior
+
+We have moved. You can now find task (taskwarrior) under https://github.com/GothenburgBitFactory/taskwarrior
